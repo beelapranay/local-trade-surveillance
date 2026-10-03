@@ -1,0 +1,2 @@
+# Runtime version verified on this GB10. Install the project with --no-deps after this.
+websockets==16.1.1
